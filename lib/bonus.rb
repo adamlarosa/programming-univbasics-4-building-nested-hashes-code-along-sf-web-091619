@@ -28,4 +28,4 @@ def bonus
   epic_tragedy
 end
 bonus[:montague][:hero][:status] = "dead"
-puts epic_tragedy[:montague][:hero][:status]
+puts bonus[:montague][:hero][:status]
